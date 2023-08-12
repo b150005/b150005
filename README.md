@@ -10,7 +10,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=b150005)
 
-- 🌱 I’m currently learning UIKit(iOS), Cocoa(macOS), JavaFX(Windows).
+- 🌱 I’m currently learning SwiftUI/UIKit(iOS).
 
 <!--
 **b150005/b150005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
